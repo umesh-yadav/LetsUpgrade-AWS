@@ -1,0 +1,7 @@
+Please find Day-4 Assignment Load Balance url to check ELB
+
+
+URL :     http://myload-19942094.us-east-2.elb.amazonaws.com/
+
+Machine 1 :         3.128.186.25
+Machine 2:          3.129.205.126 
